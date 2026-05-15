@@ -1,7 +1,7 @@
 
 ## How To Contribute
 
-1. Add a new `.json` file inside `cards/`. You can name the file anything you'd want.
+1. Add a new `.json` file inside `cards/`. You can name the file anything you'd want plus your name at the end and a number.
 2. Add that filename to `cards/index.json`.
 3. Use the same shape for every file:
 
